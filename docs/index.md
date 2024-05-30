@@ -9,7 +9,7 @@ The Konjunktiv II is used in dialect to talk about hopes, dreams, wishes, etc. W
 
 ### A Practical Guide
 
-Austrian dialects use different verb endings to form the Konjunktiv II. Memorize them.You'll not struggle to recognize the verb tense once you start listening for it.
+Dialect uses different verb endings to form the Konjunktiv II. Memorize them. You'll not struggle to recognize the verb tense once you start listening for it.
 
 | Austrian (sein)     | Standard German |
 | :------------------ | :-------------- |
