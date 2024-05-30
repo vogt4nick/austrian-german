@@ -7,6 +7,23 @@
 
 The Konjunktiv II is used in dialect to talk about hopes, dreams, wishes, etc. Whilst it's used just the same in standard German, this verb tense is formed differently in dialect. The differences can be stark and often difficult to recognize when you don't know what to listen for.
 
+??? question "I need a refresher. How is the Konjunktiv II used?"
+    The Konjunktiv II is used in the following scenarios:  
+
+    * Hypotheticals
+       > 🇦🇹 Wenn ich reich wäre, würde ich um die Welt reisen.  
+       > 🇺🇸 If I were rich, I would travel around the world.  
+    * Wishes and desires
+       > 🇦🇹 Ich wünschte, ich hätte mehr Zeit.  
+       > 🇺🇸 I wish I had more time.  
+    * Polite requests and suggestions
+       > 🇦🇹 Könnten Sie mir bitte helfen?  
+       > 🇺🇸 Could you please help me?  
+    * Conditional situations
+       > 🇦🇹 Wenn ich mehr gelernt hätte, hätte ich die Prüfung bestanden.  
+       > 🇺🇸 If I had studied more, I would have passed the exam.  
+
+
 ### A Practical Guide
 
 Dialect uses different verb endings to form the Konjunktiv II. Memorize them. You'll not struggle to recognize the verb tense once you start listening for it.
