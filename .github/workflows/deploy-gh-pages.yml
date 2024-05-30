@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: poetry install --only main --no-root
       - name: Build en site
-        run: poetry run mkdocs build -f config/en/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
+        run: poetry run mkdocs build -f mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
 
         # enable upload https://github.com/actions/upload-pages-artifact/tree/v3?tab=readme-ov-file#example-permissions-fix-for-linux
       - name: Fix permissions
