@@ -1,0 +1,15 @@
+# Python environments
+.python-version
+.venv
+
+# mkdocs documentation
+site/
+
+# MacOS artifacts
+.DS_Store
+
+# vscode settings
+.vscode/settings.json
+
+# cache for mkdocs-material privacy plugin
+.cache

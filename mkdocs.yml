@@ -1,0 +1,7 @@
+site_name: My Austrian German
+plugins:
+  - privacy
+  - search:
+      lang: [de, en]
+theme:
+  name: material

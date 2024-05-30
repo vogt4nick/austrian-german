@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "serve",
+      "type": "shell",
+      "command": "poetry run mkdocs serve -f mkdocs.yml",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "poetry run mkdocs build -f mkdocs.yml",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      }
+    }
+  ]
+}
