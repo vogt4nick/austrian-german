@@ -2,10 +2,29 @@ site_name: My Austrian German
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
+  # enable footnotes https://squidfunk.github.io/mkdocs-material/reference/footnotes/
   - footnotes
+  # enable annotations https://squidfunk.github.io/mkdocs-material/reference/annotations/
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  # enable admonitions https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # enable content tabs https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  # enable tooltips https://squidfunk.github.io/mkdocs-material/reference/tooltips/
+  - abbr
+  - attr_list
+  - pymdownx.snippets
 plugins:
   - privacy
   - search:
       lang: [de, en]
 theme:
   name: material
+  icon:
+    annotation: material/arrow-right-circle
