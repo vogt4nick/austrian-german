@@ -1,4 +1,6 @@
 site_name: My Austrian German
+markdown_extensions:
+  - footnotes
 plugins:
   - privacy
   - search:
