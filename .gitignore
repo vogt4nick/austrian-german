@@ -13,3 +13,6 @@ site/
 
 # cache for mkdocs-material privacy plugin
 .cache
+
+# temporary files
+temp*
