@@ -23,10 +23,9 @@ The Konjunktiv II is used in dialect to talk about hopes, dreams, wishes, etc. W
        > 🇦🇹 Wenn ich mehr gelernt hätte, hätte ich die Prüfung bestanden.  
        > 🇺🇸 If I had studied more, I would have passed the exam.  
 
-
 ### A Practical Guide
 
-Dialect uses different verb endings to form the Konjunktiv II. Memorize them. You'll not struggle to recognize the verb tense once you start listening for it.
+Dialect uses different verb endings to form the Konjunktiv II. Memorize them. You can conjugate every verb into the Konjunktiv II using these verb endings, and you'll not struggle to recognize the verb tense once you start listening for it.
 
 | Austrian (sein)     | Standard German |
 | :------------------ | :-------------- |
@@ -37,7 +36,7 @@ Dialect uses different verb endings to form the Konjunktiv II. Memorize them. Yo
 | ihr war**ats**      | ihr wäret       |
 | sie war**atn**      | sie wäre        |
 
-You can conjugate every verb into the Konjunktiv II using these verb endings. I find 80% of the usage comes from five verbs. Sein is one of those verbs, conjugated above. The remaining four follow below.
+I find 80% of time I use only five verbs with the Konjunktiv II. Sein is one of those verbs, conjugated above. The remaining four follow below.
 
 | haben            | gehen            | tun             | wollen            |
 | :--------------- | :--------------- | :-------------- | :---------------- |
@@ -50,12 +49,12 @@ You can conjugate every verb into the Konjunktiv II using these verb endings. I 
 
 !!! info "Careful conjugating wollen. I notice it's often conjugated as in standard German, even in dialect."
 
-This will handle 80% of usage. For the final 20%, you can fall back to the würden + infinitive construction.
+For the remaining 20%, you can fall back to the standard würden + infinitive construction.
 
 > 🥾 I wiad scho aufräumen woin, oba heit is es Sonnig.  
 > 🇦🇹 Ich würde schon aufräumen wollen, aber heute ist es Sonnig.
 
-However, even here you can sprinkle in some additional dialectical flavor by replacing werden with tun.
+Even here you can sprinkle in some additional dialectical flavor by replacing werden with tun.
 
 > 🥾 I **darat** scho aufräumen woin, oba heit is es Sonnig.  
 
