@@ -68,14 +68,13 @@ Even here you can sprinkle in some additional dialectical flavor by replacing we
     | geben    | geb-       | 🥾 Gebatst mia de Schuld, hob i g'dacht.    |
     | nehmen   | nahm-      | 🥾 Mia nahmatn's mid, hädad's Samstog frei? |
 
-
     <!-- TODO
     | können   | könnt-     | 🥾 Kenntatst vuabeikumma, wenn du Zeit host. |
     -->
 
 ### Exercises
 
-Translate the following sentences into Standard Austrian German.
+#### Exercise 1: Translate the following sentences into Standard Austrian German
 
 <div class="annotate" markdown>
 
@@ -99,13 +98,12 @@ Translate the following sentences into Standard Austrian German.
 7. 🇦🇹 Du gäbest du mir die Schuld, habe ich gedacht.
 8. 🇦🇹 Äßet ihr mit uns?
 
-Translate the following sentences into dialect.
+#### Exercise 2: Translate the following sentences into dialect
 
 <div class="annotate" markdown>
 
 1. > 🇦🇹 Wenn sie das nicht doch alle wieder täten! (1)
 2. > 🇦🇹 Wenn ich reich wäre, würde ich um die Welt reisen. (2)
-
 
 </div>
 
@@ -127,7 +125,7 @@ Translate the following sentences into dialect.
 6. 🥾 Gangat gern ins Kino, oba hob ka Zeit.
 7. 🥾 Sie hod gwünscht, sie kenntat bessa Deitsch sprechen.
 8. 🥾 Wenn du mia friaha Bescheid gsogt hättatst, warat pünktlich kumma.
- -->
+-->
 
 [^klinger]:
     Klinger, Dominik. [Dialektkurse.](https://www.dialektkurs.at/)
