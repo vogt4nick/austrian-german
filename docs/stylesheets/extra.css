@@ -1,6 +1,6 @@
 .md-typeset blockquote {
     color: var(--md-default-fg-color--dark);
-    background-color: var(--md-default-fg-color--lightest);
+    background-color: var(--md-default-bg-color);
     margin-left: 0;
     margin-right: 0
 }
