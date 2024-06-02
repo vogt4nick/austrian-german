@@ -134,14 +134,14 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
 
 <div class="annotate" markdown>
 
-1. > 🥾 Sie hättat aan Kaffee. (1)  
-2. > 🥾 Wenn i a bissi reicha warat, wiad a kloanes Heisl kaufn. (2)  
-3. > 🥾 I darat scho aufräumen woin, oba heit is es Sonnig. (3)  
-4. > 🥾 Er gangat mid uns, wemma fria fåhrn. (4)  
-5. > 🥾 Er woidad wirklich den gonzn Marathon laufn? (5)  
-6. > 🥾 Deaffatn mia zoin? (6)  
-7. > 🥾 I miass aankaufn. Kammadst mid? (7)  
-8. > 🥾 Essats mid uns? (8)  
+1. 🥾 Sie hättat aan Kaffee. (1)  
+2. 🥾 Wenn i a bissi reicha warat, wiad a kloanes Heisl kaufn. (2)  
+3. 🥾 I darat scho aufräumen woin, oba heit is es Sonnig. (3)  
+4. 🥾 Er gangat mid uns, wemma fria fåhrn. (4)  
+5. 🥾 Er woidad wirklich den gonzn Marathon laufn? (5)  
+6. 🥾 Deaffatn mia zoin? (6)  
+7. 🥾 I miass aankaufn. Kammadst mid? (7)  
+8. 🥾 Essats mid uns? (8)  
 
 </div>
 
@@ -158,10 +158,10 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
 
 <div class="annotate" markdown>
 
-1. > 🇩🇪 Wenn sie das nicht doch alle wieder täten! (1)
-2. > 🇩🇪 Wenn ich reich wäre, würde ich um die Welt reisen. (2)
-3. > 🇩🇪 Er hätte die Hilfe wirklich gebraucht, aber niemand war da. (3)
-4. > 🇩🇪 Sie wünschte, sie könnte besser Deutsch sprechen. (4)
+1. 🇩🇪 Wenn sie das nicht doch alle wieder täten! (1)
+2. 🇩🇪 Wenn ich reich wäre, würde ich um die Welt reisen. (2)
+3. 🇩🇪 Er hätte die Hilfe wirklich gebraucht, aber niemand war da. (3)
+4. 🇩🇪 Sie wünschte, sie könnte besser Deutsch sprechen. (4)
 
 </div>
 
