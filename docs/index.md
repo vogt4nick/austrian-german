@@ -5,7 +5,7 @@
 > 🥾 I wollte, i warat wieda jung.  
 > 🇦🇹 Ich wollte, ich wäre wieder jung.  
 
-The Konjunktiv II is used in dialect to talk about hopes, dreams, wishes, an other "unreal" things. Whilst it's used just the same in standard German, this verb tense is formed differently in dialect, and the differences can be difficult to recognize when you don't know what to listen for. This section serves as a practical guide to forming and recognizing the Konjunktiv II in dialect.
+The Konjunktiv II serves the same purpose in dialect as in standard German, however it is formed differently in dialect. As these differences can be difficult to recognize when you don't know what to listen for, this section serves as a practical guide to forming and recognizing the Konjunktiv II in dialect.
 
 ??? question "I need a refresher. How is the Konjunktiv II used?"
     The Konjunktiv II is used in the following scenarios:  
@@ -40,26 +40,51 @@ Dialect uses different inflections (verb endings) to form the Konjunktiv II. Mem
 
 As this is above all a practical guide, the most common verbs and their conjugations follow below (excluding sein already given above). The stems are in bold and always the same. Only the inflections change with the subject.  
 
-- Dürfen: 🥾 **Deaff**atn mia zoin?
-- Haben: 🥾 I **hätt**at aan Cappuccino.
-- Können: 🥾 **Kenn**ats aanfoch a Beisl findn, is no ned spät.
-- Mögen: 🥾 I **mech**ad mid eam fåhrn, owa er hod kaa Zeit kobt.
-- Müssen: 🥾 Er **miass**at gonz von vorne ongfongn.
-- Sollen: 🥾 I **soit**at drauf åchtn, ob 'as Wetta si ändert.
-- Wollen: 🥾 **Woit**ats wirklich den gonzn Marathon laufn?
+<div class="annotate" markdown>
+
+- Dürfen: 🥾 **Deaff**atn mia zoin? (1)
+- Haben: 🥾 I **hätt**at aan Cappuccino. (2)
+- Können: 🥾 **Kenn**ats aanfoch a Beisl findn, is no ned spät. (3)
+- Mögen: 🥾 I **mech**ad mid eam foan, owa er hod kaa Zeit. (4)
+- Müssen: 🥾 Er **miass**at gonz von vorne onfongn. (5)
+- Sollen: 🥾 I **soit**at drauf åchtn, ob 'as Wetta si ändert. (6)
+- Wollen: 🥾 **Woit**ats wirklich den gonzn Marathon laufn? (7)
+
+</div>
+
+1. 🇩🇪 Dürften wir zahlen?
+2. 🇩🇪 Ich hätte einen Cappuccino.
+3. 🇩🇪 Ihr könntet einfach ein kleines Gasthaus finden, es ist noch nicht spät.
+4. 🇩🇪 Ich möchte mit ihm fahren, aber er hat keine Zeit.
+5. 🇩🇪 Er müsste ganz von vorne anfangen.
+6. 🇩🇪 Ich sollte darauf achten, ob das Wetter sich ändert.
+7. 🇩🇪 Wolltet ihr wirklich den ganzen Marathon laufen?
 
 Many verbs have irregular stems that aren't simply vowel-shifted from the standard German. It's best to simply memorize these verbs.  
 
-- Brauchen: 🥾 I **brauch**at mei Jacke, wemma aussi gehn.
-- Essen: 🥾 **Essat**s heit mid uns?
-- Geben: 🥾 Sie **geb**at dir s'Buach zurück, wenn du nua frogst.
-- Gehen: 🥾 Er **gang**at mid uns, wemma fria fåhrn.
-- Kommen: 🥾 I miass aankaufn. **Kamm**adst mid?
-- Nehmen: 🥾 Sie wianscht, mia **nahm**atn sie mid.
-- Tun: 🥾 I **dar**at scho aufräumen woin, oba heit is es Sonnig.
-- Wissen: 🥾 **Wiss**adst, wann is 'as Feuerwehrfestl?
+<div class="annotate" markdown>
 
-??? info "Some verbs have multiple forms."
+- Brauchen: 🥾 I **brauch**at mei Jacke, wemma aussi gehn. (1)
+- Essen: 🥾 **Essat**s heit mid uns? (2)
+- Geben: 🥾 Sie **geb**at dir s'Buach zurück, wenn du nua frogst. (3)
+- Gehen: 🥾 Er **gang**at mid uns, wemma fria gehn. (4)
+- Kommen: 🥾 I miass aankaufn. **Kamm**adst mid? (5)
+- Nehmen: 🥾 Sie wianscht, mia **nahm**atn sie mid. (6)
+- Tun: 🥾 I **dar**at scho aufräumen woin, oba heit is es Sonnig. (7)
+- Wissen: 🥾 **Wiss**adst, wann is 'as Feuerwehrfestl? (8)
+
+</div>
+
+1. 🇩🇪 Ich brauchte meine Jacke, wenn wir hinaus gehen.
+2. 🇩🇪 Äßet ihr heute mit uns?
+3. 🇩🇪 Sie gäbe dir das Buch zurück, wenn du nur fragst.
+4. 🇩🇪 Er ginge mit uns, wenn wir früher gehn.
+5. 🇩🇪 Ich muss einkaufen. Kämest du mit?
+6. 🇩🇪 Sie wünscht, wir nähmen sie mit.
+7. 🇩🇪 Ich würde schon aufräumen wollen, aber heute ist es Sonnig.
+8. 🇩🇪 Wüsstest du, wann is das Feuerwehrfest?
+
+??? info "Some verbs have additional, irregular forms."
     While every verb can be conjugated as above, the following verbs have common irregular forms on the far side of the dialect spectrum.
 
     | gehen       | haben          | können    |
@@ -71,7 +96,7 @@ Many verbs have irregular stems that aren't simply vowel-shifted from the standa
     | ees gangats | ees hätts      | ees kants |
     | sie gangan  | sie hättn      | sie kantn |
 
-### Conjugating Werden
+#### Conjugating Werden
 
 Werden is a special verb with two distinctions:  
 
@@ -90,7 +115,7 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
 
 1. Haben + infinitive
    > 🥾 Mia hättn in den Urlaub foan, wenn mei Auto ned im Oasch gwesn warat.  
-   > 🇩🇪 Wir hätten in den Urlaub fahren, wenn mein Auto ned Kaputt gewesen wäre.  
+   > 🇩🇪 Wir hätten in den Urlaub fahren, wenn mein Auto nicht Kaputt gewesen wäre.  
 
 2. Werden + infinitive
    > 🥾 I wiad scho aufräumen woin, oba heit is es Sonnig.  
