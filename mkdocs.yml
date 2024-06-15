@@ -53,6 +53,3 @@ theme:
   name: material
   icon:
     annotation: material/arrow-right-circle
-  features:
-    - navigation.indexes
-    - navigation.tabs
