@@ -1,4 +1,16 @@
 site_name: My Austrian German
+extra:
+  cite:
+    swick_grammar_drills: >-
+      Swick, Ed.
+      [_German Grammar Drills._](https://www.amazon.com/dp/1264286104/)
+      Premium 4th Edition.
+      McGraw Hill, 2022.
+    wolf_sog_amoi: >-
+      Wolf, Manfred.
+      [_Sog amoi: Das etwas andere Mundartwörterbuch für Oberösterreich._](https://www.amazon.com/dp/3991132281)
+      1. Auflage.
+      TRAUNER Verlag + Buchservice GmbH, 2021.
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -20,7 +32,20 @@ markdown_extensions:
   - abbr
   - attr_list
   - pymdownx.snippets
+  # enable formatting https://squidfunk.github.io/mkdocs-material/reference/formatting/
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # enable diagrams https://squidfunk.github.io/mkdocs-material/reference/diagrams/
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
+  - macros
   - privacy
   - search:
       lang: [de, en]
@@ -28,3 +53,6 @@ theme:
   name: material
   icon:
     annotation: material/arrow-right-circle
+  features:
+    - navigation.indexes
+    - navigation.tabs
