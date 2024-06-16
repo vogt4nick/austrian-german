@@ -10,6 +10,7 @@ python = "^3.9"
 mkdocs = "^1.6.0"
 mkdocs-material = "^9.5.25"
 mkdocs-macros-plugin = "^1.0.5"
+mkdocs-awesome-pages-plugin = "^2.9.2"
 
 
 [tool.poetry.group.dev.dependencies]

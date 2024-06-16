@@ -11,6 +11,10 @@ extra:
       [_Sog amoi: Das etwas andere Mundartwörterbuch für Oberösterreich._](https://www.amazon.com/dp/3991132281)
       1. Auflage.
       TRAUNER Verlag + Buchservice GmbH, 2021.
+  w4w: :play_pause:{ title="Word for word" }
+  at: :flag_at:{ title="Dialect" }
+  de: :flag_de:{ title="Standard German" }
+  us: :flag_us:{ title="Standard American English" }
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -44,11 +48,28 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  # enable emojis https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # enable tooltips https://squidfunk.github.io/mkdocs-material/reference/tooltips/
+  - abbr
+  - attr_list
+  - pymdownx.snippets
 plugins:
-  - macros
   - privacy
   - search:
       lang: [de, en]
+  # external to material mkdocs
+  - awesome-pages:
+      filename: pages.yml
+      collapse_single_pages: false
+      strict: true
+      order: asc
+      sort_type: natural
+      order_by: title
+  - macros
 theme:
   name: material
   icon:
