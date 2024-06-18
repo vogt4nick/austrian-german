@@ -1,9 +1,15 @@
-# Konjunktiv II
+# Subjunctive Mood
 
-> {{at}} I woitat, i warat wieda jung.  
-> {{de}} Ich wollte, ich wäre wieder jung.  
+## Konjunktiv I
 
-The Konjunktiv II serves the same purpose in dialect as in standard German, however it is formed differently in dialect. As these differences can be difficult to recognize when you don't know what to listen for, this section serves as a practical guide to forming and recognizing the Konjunktiv II in dialect.
+The Konjunktiv I is never used in spoken dialect. The indicative takes its place.
+
+> {{at}} Hans sogt, ea is ööf Jahrn oid.  
+> {{de}} Hans sagt, er sei elf Jahre alt.  
+
+## Konjunktiv II
+
+The Konjunktiv II is formed differently in dialect, however it serves the same purpose as in standard German. As these differences can be difficult to recognize when you don't know what to listen for, this section serves as a practical guide to forming and recognizing the Konjunktiv II in dialect.
 
 ??? question "I need a refresher. How is the Konjunktiv II used?"
     The Konjunktiv II is used in the following scenarios:  
@@ -21,7 +27,7 @@ The Konjunktiv II serves the same purpose in dialect as in standard German, howe
        > {{de}} Wenn ich mehr gelernt hätte, hätte ich die Prüfung bestanden.  
        > {{us}} If I had studied more, I would have passed the exam.  
 
-## -at Inflections
+### -at Inflections
 
 Dialect uses different inflections (verb endings) to form the Konjunktiv II. Memorize them. You can conjugate every verb into the Konjunktiv II using these inflections, and you'll not struggle to recognize the verb tense once you start listening for it.
 
@@ -34,7 +40,7 @@ Dialect uses different inflections (verb endings) to form the Konjunktiv II. Mem
 | ees war**ats**      | ihr wäret              |
 | sie war**atn**      | sie wären              |
 
-## Essential Verbs
+### Essential Verbs
 
 As this is above all a practical guide, the most common verbs and their conjugations follow below (excluding sein already given above). The stems are in bold and always the same. Only the inflections change with the subject.  
 
@@ -94,7 +100,7 @@ Many verbs have irregular stems that aren't simply vowel-shifted from the standa
     | ees gangats | ees hätts      | ees kants |
     | sie gangan  | sie hättn      | sie kantn |
 
-### Conjugating Werden
+#### Conjugating Werden
 
 Werden is a special verb with two distinctions:  
 
@@ -105,9 +111,9 @@ Werden is a special verb with two distinctions:
 2. Tun replaces werden on the far side of the dialect spectrum. So the above example becomes  
    > {{at}} I **darat** scho aufräumen woin, oba heit is es Sonnig.  
 
-You can conjugate every verb if you know its stem--but what if you don't know the stem? The stem frequently differs in dialect from standard German, and so guessing is likely to cause confusion.[^advanced-forms]
+You can conjugate every verb if you know its stem, but what if you don't know the stem? The stem frequently differs in dialect from standard German, and so guessing is likely to cause confusion.[^advanced-forms]
 
-## Periphrastic Conjugation
+### Periphrastic Conjugation
 
 Use haben/werden + infinitive construction when you're at a loss for words. It works equally well in dialect as in standard German.
 
