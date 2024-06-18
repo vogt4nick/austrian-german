@@ -1,45 +1,32 @@
 # Past Verb Tenses
 
-There are blessedly few challenging differences in dialect compared to standard German when talking about the past. While the Perfekt counts for most of the usage, we begin with the Präteritum because it has two very important uses in dialect.
+There are blessedly few challenging differences in dialect compared to standard German when talking about the past.
 
 ??? question "I need a refresher. What are past verb tenses?"
     This page will discuss three verb tenses for talking about the past:
 
     | Verb Tense      | {{de}} Example             |
     | :-------------- | :------------------------- |
-    | Präteritum      | Ich ging ins Kino.         |
     | Perfekt         | Ich bin ins Kino gegangen. |
     | Plusquamperfekt | Ich war ins Kino gegangen. |
-
-## Präteritum
-
-Two verbs are used in dialect in the Präteritum, otherwise the Präteritum is seldom spoken. The disappearance of the Präteritum[^wiki_präteritumsschwund] is the biggest difference between dialect and standard German.
-
-1. Wollen always uses the Präteritum and never the Perfekt.  
-   > {{at}} I woit's dia eher sogn.  
-   > {{de}} Ich wollte es dir eher sagen.  
-2. Sein uses the Präteritum and the Perfekt.  
-   > {{at}} I bin heit am Fuaßboiplotz gwesn.  
-   > {{at}} I woa heit am Fuaßboiplotz.  
-   > {{de}} Ich war heute am Fußballplatz.  
-
-[^wiki_präteritumsschwund]:
-    _Wikipedia._ ["Oberdeutscher Präteritumschwund."](https://de.wikipedia.org/wiki/Oberdeutscher_Präteritumschwund)
+    | Präteritum      | Ich ging ins Kino.         |
 
 ## Perfekt
 
-The Perfekt is the primary verb tense for talking about the past. There are two things to know:
-
-1. The Perfekt is used exactly the same as in standard German.  
+The Perfekt is the primary verb tense for talking about the past. Though often interchangeable with the Präteritum in standard German, dialect uses the Perfekt almost exclusively. When in doubt, use the Perfekt.  
+   > {{at}} I bin heit am Fuaßboiplotz gwesn.  
+   > {{de}} Ich war heute am Fußballplatz.  
+   >
    > {{at}} Host da Robert gschriebn?  
    > {{de}} Hast du Robert geschrieben?  
-2. Except for _wollen_ and _sein_, the Perfekt fully replaces the Präteritum, .  
-   > {{at}} Is sche, wos gschriebn host.  
-   > {{de}} Ist schön, was du schriebst.  
+
+The Partizip II of _wollen_ is irregular here:  
+   > {{at}} I hob s'Buach woin.  
+   > {{de}} Ich habe das Buch gewollt.  
 
 ### Doppeltes Perfekt
 
-The so-named "Doppeltes Perfekt"[^wiki_doppeltes_perfekt] functions as a superlative more than its own distinct verb tense. Folks use it when they want to express that something happened in the past and that it is indeed complete and over with. While not grammatical German, it can be translated word for word:
+The so-named double Perfekt[^wiki_doppeltes_perfekt] functions as a superlative more than its own distinct verb tense. Folks use it when they want to express that something happened in the past and that it is indeed complete and over with. While not grammatical German, it can be translated word for word:
 
 > {{at}} _Wo is da Robert?_ I hob eam gschriebn kobt.  
 > {{w4w}} _Wo ist der Robert?_ Ich habe ihm geschrieben gehabt.
@@ -65,6 +52,20 @@ The Plusquamperfekt is used to talk about the past when the frame of reference i
 > {{at}} _Wo warst gestern gwesn?_ Najo, da Seppi hatte mi gschriebn, owa woa scho eben außer Haus ganga.  
 > {{de}} _Wo warst du gestern?_ Naja, Josef hatte mich geschrieben, aber ich war schon eben außer Haus gegangen.
 
+## Präteritum
+
+The Präteritum has mostly disappeared from spoken dialect.[^wiki_präteritumsschwund] Only two verbs are commonly used in the Präteritum:
+
+1. Sein  
+   > {{at}} I woa heit am Fuaßboiplotz.  
+   > {{de}} Ich war heute am Fußballplatz.  
+2. Wollen  
+   > {{at}} I woit's dia eher sogn.  
+   > {{de}} Ich wollte es dir eher sagen.  
+
+[^wiki_präteritumsschwund]:
+    _Wikipedia._ ["Oberdeutscher Präteritumschwund."](https://de.wikipedia.org/wiki/Oberdeutscher_Präteritumschwund)
+
 ## Exercises
 
 ### Exercise 1: Dialect > Standard German
@@ -76,6 +77,7 @@ The Plusquamperfekt is used to talk about the past when the frame of reference i
 3. {{at}} I bin Samstag den gonzen Tog am Fuaßboiplotz gwesn. (3)  
 4. {{at}} Am Sonntag samma zu Hause geblieben. (4)  
 5. {{at}} Mei Schwester woit ins Museum gehn, owa es war wegen Modernisierung gschlossn. (5)  
+6. {{at}} I bin heit am Fuaßboiplotz gwesn. (6)  
 
 </div>
 
@@ -84,6 +86,7 @@ The Plusquamperfekt is used to talk about the past when the frame of reference i
 3. {{de}} Ich war Samstag den ganzen Tag am Fußballplatz.  
 4. {{de}} Am Sonntag bliebten wir zu Hause.  
 5. {{de}} Mei Schwester wollte ins Museum gehen, aber es war wegen Modernisierung geschlossen.  
+6. {{de}} Ich war heute am Fußballplatz.  
 
 ### Exercise 2: Standard German > Dialect
 
@@ -94,11 +97,15 @@ The Plusquamperfekt is used to talk about the past when the frame of reference i
 3. {{de}} Leider hatten wir wegen dem Regen die Party abgesagt. (3)  
 4. {{de}} Wir haben einen schönen Tag am Strand verbracht. (4)  
 5. {{de}} Ich hatte das Buch schon gelesen, bevor der Film herauskam. (5)  
+6. {{de}} Ist schön, was du schriebst. (6)  
+7. {{de}} Ich habe das Buch gewollt. (7)
 
 </div>
 
-1. {{at}} Wos is nach em Party passiert?
-2. {{at}} Es hod a Demo im Hauptplatz gem.
-3. {{at}} Leida hattma wegen em Regn am Freitag unsere Party ausgfoin.
-4. {{at}} Mia hom an schenen Tag am Strand verbrocht.
-5. {{at}} I hatt s'Buach scho glesn, bevor ea Film aussakomma war.
+1. {{at}} Wos is nach em Party passiert?  
+2. {{at}} Es hod a Demo im Hauptplatz gem.  
+3. {{at}} Leida hattma wegen em Regn am Freitag unsere Party ausgfoin.  
+4. {{at}} Mia hom an schenen Tag am Strand verbrocht.  
+5. {{at}} I hatt s'Buach scho glesn, bevor ea Film aussakomma war.  
+6. {{at}} Is sche, wos gschriebn host.  
+7. {{at}} I hob s'Buach woin.
