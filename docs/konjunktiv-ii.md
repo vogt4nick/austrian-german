@@ -99,7 +99,7 @@ Many verbs have irregular stems that aren't simply vowel-shifted from the standa
 Werden is a special verb with two distinctions:  
 
 1. Werden is simply vowel-shifted from standard German. It does not take the suffixes above.  
-   > {{at}} I **wiad** scho aufräumen woin, oba heit is es Sonnig.  
+   > {{at}} I **wuad** scho aufräumen woin, oba heit is es Sonnig.  
    > {{de}} Ich würde schon aufräumen wollen, aber heute ist es Sonnig.  
 
 2. Tun replaces werden on the far side of the dialect spectrum. So the above example becomes  
@@ -116,7 +116,7 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
    > {{de}} Wir hätten in den Urlaub fahren, wenn mein Auto nicht Kaputt gewesen wäre.  
 
 2. Werden + infinitive
-   > {{at}} I wiad scho aufräumen woin, oba heit is es Sonnig.  
+   > {{at}} I wuad scho aufräumen woin, oba heit is es Sonnig.  
    > {{de}} Ich würde schon aufräumen wollen, aber heute ist es Sonnig.  
 
 [^advanced-forms]:
@@ -133,7 +133,7 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
 <div class="annotate" markdown>
 
 1. {{at}} Sie hättat aan Kaffee. (1)  
-2. {{at}} Wenn i a bissi reicha warat, wiad a kloanes Heisl kaufn. (2)  
+2. {{at}} Wenn i a bissi reicha warat, wuad a kloanes Heisl kaufn. (2)  
 3. {{at}} I darat scho aufräumen woin, oba heit is es Sonnig. (3)  
 4. {{at}} Er gangat mid uns, wemma fria fåhrn. (4)  
 5. {{at}} Er woidad wirklich den gonzn Marathon laufn? (5)  
