@@ -64,6 +64,10 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  # enable lists https://squidfunk.github.io/mkdocs-material/reference/lists/
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 plugins:
   - privacy
   - search:
