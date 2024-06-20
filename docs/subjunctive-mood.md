@@ -9,7 +9,7 @@ The Konjunktiv I is never used in spoken dialect. The indicative takes its place
 
 ## Konjunktiv II
 
-The Konjunktiv II is formed differently in dialect, however it serves the same purpose as in standard German. As these differences can be difficult to recognize when you don't know what to listen for, this section serves as a practical guide to forming and recognizing the Konjunktiv II in dialect.
+The Konjunktiv II is formed differently in dialect, however it serves the same purpose as in standard German.
 
 ??? question "I need a refresher. How is the Konjunktiv II used?"
     The Konjunktiv II is used in the following scenarios:  
@@ -42,7 +42,7 @@ Dialect uses different inflections (verb endings) to form the Konjunktiv II. Mem
 
 ### Essential Verbs
 
-As this is above all a practical guide, the most common verbs and their conjugations follow below (excluding sein already given above). The stems are in bold and always the same. Only the inflections change with the subject.  
+The most common verbs and their conjugations follow below (excluding _sein_ already given above). The **stems are bolded** and always the same. Only the inflections change with the subject.  
 
 <div class="annotate" markdown>
 
