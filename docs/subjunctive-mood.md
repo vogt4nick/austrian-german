@@ -69,7 +69,7 @@ Many verbs have irregular stems that aren't simply vowel-shifted from the standa
 <div class="annotate" markdown>
 
 - Brauchen: {{at}} I **brauch**at mei Jacke, wemma aussi gehn. (1)
-- Essen: {{at}} **Essat**s heit mid uns? (2)
+- Essen: {{at}} **Ess**ats heit mid uns? (2)
 - Geben: {{at}} Sie **geb**at dir s'Buach zurück, wenn du nua frogst. (3)
 - Gehen: {{at}} Er **gang**at mid uns, wemma fria gehn. (4)
 - Kommen: {{at}} I miass aankaufn. **Kamm**adst mid? (5)
