@@ -34,7 +34,7 @@ Dialect uses different inflections (verb endings) to form the Konjunktiv II. Mem
 | {{at}} Dialect      | {{de}} Standard German |
 | :------------------ | :--------------------- |
 | i war**at**         | ich wäre               |
-| du war**atst**      | du wärest              |
+| du war**ast**       | du wärest              |
 | er/sie/es war**at** | er/sie/es wäre         |
 | mia war**atn**      | wir wären              |
 | ees war**ats**      | ihr wäret              |
