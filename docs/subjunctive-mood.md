@@ -51,7 +51,7 @@ The most common verbs and their conjugations follow below (excluding _sein_ alre
 - Können: {{at}} **Kinn**ads aanfoch a Beisl findn, is no ned spät. (3)
 - Mögen: {{at}} I **mech**ad mid eam foan, owa er hod kaa Zeit. (4)
 - Müssen: {{at}} Er **miass**at gonz von vorne onfongn. (5)
-- Sollen: {{at}} I **soit**at drauf åchtn, ob 'as Wetta si ändert. (6)
+- Sollen: {{at}} I **soit**at drauf achtn, ob 'as Wetta si ändert. (6)
 - Wollen: {{at}} **Woit**ats wirklich den gonzn Marathon laufn? (7)
 
 </div>
@@ -141,7 +141,7 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
 1. {{at}} Sie hättat aan Kaffee. (1)  
 2. {{at}} Wenn i a bissi reicha warat, wuad a kloanes Heisl kaufn. (2)  
 3. {{at}} I darat scho aufräumen woin, oba heit is es Sonnig. (3)  
-4. {{at}} Er gangat mid uns, wemma fria fåhrn. (4)  
+4. {{at}} Er gangat mid uns, wemma fria foan. (4)  
 5. {{at}} Er woidad wirklich den gonzn Marathon laufn? (5)  
 6. {{at}} Deaffatn mia zoin? (6)  
 7. {{at}} I miass aankaufn. Kammadst mid? (7)  
