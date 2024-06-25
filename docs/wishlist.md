@@ -29,6 +29,8 @@ Topics I want to cover. In no particular order:
     - e.g. [Verb in second position after weil](https://www.bairische-sprache.at/Index/Remaraweng%20Boarisch%20-%20Lehren/Lautlehre-1-Vormerkungen.htm)
 - [ ] Contractions
     - e.g. {{at}} Lass mas bleibn > {{de}} Lassen wir es bleiben; omitting pronouns; [modal verbs drop the helper](https://german.stackexchange.com/questions/74649/modalverben-d%C3%BCrfen-k%C3%B6nnen-ohne-vollverb-haben)
+- [ ] Complementizer agreement
+    - e.g. i woaß ned, ob**st** des mocha kaunst
 - [ ] Stereotypes (snobby viennese, bauersprache, etc)
 - [ ] Etiquette: Siezen and Duzen
 - [ ] Ironic Hyperbole: cutesy words for outsized meaning (Is scho a Zeitl her)
