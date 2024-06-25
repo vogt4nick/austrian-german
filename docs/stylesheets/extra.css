@@ -5,6 +5,10 @@
     margin-right: 0
 }
 
+.headless thead {
+    display: none;
+}
+
 .openinnewtab a {
     target: "_blank"
 }
