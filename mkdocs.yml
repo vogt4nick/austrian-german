@@ -80,14 +80,14 @@ plugins:
   - search:
       lang: [de, en]
   # external to material mkdocs
-  - awesome-pages:
+  - awesome-pages:  # mkdocs-awesome-pages-plugin
       filename: pages.yml
       collapse_single_pages: false
       strict: true
       order: asc
       sort_type: natural
       order_by: title
-  - macros
+  - macros  # mkdocs-macros-plugin
 theme:
   name: material
   icon:
