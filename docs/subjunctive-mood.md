@@ -128,9 +128,9 @@ Use haben/werden + infinitive construction when you're at a loss for words. It w
 [^advanced-forms]:
     Native speakers and academics (try to) describe precisely how and why these conjugations are formed. I personally find the explanations equally interesting and impractical. The determined reader seeking deeper understanding should follow onto the German Wikipedia section on Bairische Konjunktiv II forms,[^bairisch-wiki] afterward a wash of academic publications[^vergeiner] awaits you still.
 [^bairisch-wiki]:
-    _Wikipedia._ ["Bairisch."](https://de.wikipedia.org/wiki/Bairisch) {{ cc.by_sa }}
+    _Wikipedia._ ["Bairisch."](https://de.wikipedia.org/wiki/Bairisch)
 [^vergeiner]:
-    Vergeiner, Philip C. and Lars Bülow. ["Der Konjunktiv II in den ruralen basisdialekten österreichs."](https://www.researchgate.net/publication/359049174_Der_Konjunktiv_II_in_den_ruralen_Basisdialekten_Osterreichs_Quantitative_und_qualitative_Befunde) _Linguistik Online_, 114(2), pp. 3–42. doi:10.13092/lo.114.8401. 6 March 2022. {{ cc.by }}
+    Vergeiner, Philip C. and Lars Bülow. ["Der Konjunktiv II in den ruralen basisdialekten österreichs."](https://www.researchgate.net/publication/359049174_Der_Konjunktiv_II_in_den_ruralen_Basisdialekten_Osterreichs_Quantitative_und_qualitative_Befunde) _Linguistik Online_, 114(2), pp. 3–42. doi:10.13092/lo.114.8401. 6 March 2022.
 
 ## Exercises
 
