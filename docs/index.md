@@ -3,7 +3,7 @@
 > _The dialect is here; we can't talk ourselves out of it now. It is spoken, and it is important that people simply be not afraid of the dialect, knowing that they will never have to speak dialect. Nobody expects that._[^interview]
 
 [^interview]:
-    Knapp-Rier, Eva. "Interview 3." Interview by Theresia Christine Kaufmann. [_Dialekte im DaZ-Unterricht_ (Master's Thesis).](https://phaidra.univie.ac.at/detail/o:1890042.pdf) Universität Wien, Vienna, Austria. 2023. Translated to English by Nick Vogt.
+    Knapp-Rier, Eva. "Interview 3." Interview by Theresia Christine Kaufmann. [_Dialekte im DaZ-Unterricht_ (Master's Thesis).](https://phaidra.univie.ac.at/detail/o:1813141) Universität Wien, Vienna, Austria. 2023. Translated to English by Nick Vogt.
 
 <!-- Personal Connection: Share your personal connection to the topic or your journey in writing the book. This helps establish your authority and passion for the subject matter. -->
 
