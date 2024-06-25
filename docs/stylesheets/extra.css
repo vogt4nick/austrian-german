@@ -5,6 +5,10 @@
     margin-right: 0
 }
 
+.openinnewtab a {
+    target: "_blank"
+}
+
 /* .md-typeset table:not([class]) {
     font-size: .64rem;
 } */
