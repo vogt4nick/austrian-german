@@ -63,6 +63,8 @@ The Präteritum has mostly disappeared from spoken dialect.[^wiki_präteritumssc
    > {{at}} I woit's dia eher sogn.  
    > {{de}} Ich wollte es dir eher sagen.  
 
+<!-- TODO what about werden in the passive? es wurde gesagt -->
+
 [^wiki_präteritumsschwund]:
     _Wikipedia._ ["Oberdeutscher Präteritumschwund."](https://de.wikipedia.org/wiki/Oberdeutscher_Präteritumschwund)
 
