@@ -43,7 +43,7 @@ Often it's used defensively. The tone is similar to "I texted him!" and "I did t
 !!! info "There is no Doppeltes Plusquamperfekt."
 
 [^wiki_doppeltes_perfekt]:
-    _Wikipedia._ ["Doppeltes Perfekt."](https://de.m.wikipedia.org/wiki/Doppeltes_Perfekt)
+    _Wikipedia._ ["Doppeltes Perfekt."](https://de.m.wikipedia.org/wiki/Doppeltes_Perfekt) {{ cc.by_sa }}
 
 ## Plusquamperfekt
 
@@ -64,7 +64,7 @@ The Präteritum has mostly disappeared from spoken dialect.[^wiki_präteritumssc
    > {{de}} Ich wollte es dir eher sagen.  
 
 [^wiki_präteritumsschwund]:
-    _Wikipedia._ ["Oberdeutscher Präteritumschwund."](https://de.wikipedia.org/wiki/Oberdeutscher_Präteritumschwund)
+    _Wikipedia._ ["Oberdeutscher Präteritumschwund."](https://de.wikipedia.org/wiki/Oberdeutscher_Präteritumschwund) {{ cc.by_sa }}
 
 ## Exercises
 
