@@ -5,7 +5,7 @@ Topics I want to cover. In no particular order:
 - [x] Konjunktiv I and II
 - [x] Präteritum
 - [x] Perfekt, double Perfekt, and Plusquamperfekt
-- [ ] Irregular present tense verbs
+- [x] Irregular present tense verbs
     - e.g. sein > san, haben > hom, sehen > seng
 - [ ] Missing genitive case
     - e.g. "dem Nick seine Rezepte", Vonativ
