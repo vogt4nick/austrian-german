@@ -4,7 +4,9 @@
     {
       "label": "serve",
       "type": "shell",
-      "command": "poetry run mkdocs serve -f mkdocs.yml",
+      // --dev-addr localhost:xxxx is necessary for embedded youtube videos
+      // to work locally https://stackoverflow.com/questions/51969269/
+      "command": "poetry run mkdocs serve -f mkdocs.yml --dev-addr localhost:8000",
       "group": {
         "kind": "build",
         "isDefault": true
