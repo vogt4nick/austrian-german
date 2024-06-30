@@ -368,6 +368,7 @@ This list will help with memorization and sanity checks. As inflections are not 
 | zählen            | zöin              | zöi        |
 
 <!-- TODO exercises with audio examples -->
+<!-- use https://embed.tube/embed-code-generator/youtube/ -->
 
 *[1SG]: 1st Person Singular, e.g. ich bin
 *[2SG]: 2st Person Singular, e.g. du bist
