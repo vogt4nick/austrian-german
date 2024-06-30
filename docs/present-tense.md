@@ -93,20 +93,6 @@ Modal verbs are also common and almost always irregular.
     > {{at}} Mia dan ois, wos mia kina.  
     > {{de}} Wir tun alles, was wir können.  
 
-=== "{{de}} mögen"
-
-    | {{at}} meng  |           |
-    | :----------- | :-------- |
-    | i mog        | mia meng  |
-    | du mogst     | ees megts |
-    | ea/se/es mog | se meng   |
-
-    > {{at}} I glaub, mei Bruda mog 'es Mädl um's Eck.  
-    > {{de}} Ich glaube, mein Bruder mag das Mädchen von nebenan.  
-    >
-    > {{at}} Mia meng Linz gern.  
-    > {{de}} Wir mögen Linz gern.  
-
 === "{{de}} müssen"
 
     | {{at}} miassn  |             |
@@ -134,6 +120,20 @@ Modal verbs are also common and almost always irregular.
     >
     > {{at}} Ees soits stad sei.  
     > {{de}} Ihr sollt leise sein.  
+
+=== "{{de}} mögen"
+
+    | {{at}} meng  |           |
+    | :----------- | :-------- |
+    | i mog        | mia meng  |
+    | du mogst     | ees megts |
+    | ea/se/es mog | se meng   |
+
+    > {{at}} I glaub, mei Bruda mog 'es Mädl um's Eck.  
+    > {{de}} Ich glaube, mein Bruder mag das Mädchen von nebenan.  
+    >
+    > {{at}} Mia meng Linz gern.  
+    > {{de}} Wir mögen Linz gern.  
 
 === "{{de}} wissen"
 
@@ -171,7 +171,7 @@ Modal verbs are also common and almost always irregular.
 
 ## Irregular Pronunciation
 
-Some verbs are extremely weird and common. Memorize them.
+Some verbs are so strange we simply have to memorize them.
 
 === "{{de}} gehen"
 
@@ -207,6 +207,9 @@ Some verbs are extremely weird and common. Memorize them.
     > {{at}} De Radln stenga im Weg.  
     > {{de}} De Fahrräder stehen im Weg.  
 
+    <!-- TODO move i steh auf ... to exercises -->
+    <!-- TODO sentence for stehen -->
+
 === "{{de}} tun"
 
     | {{at}} duan   |          |
@@ -231,6 +234,9 @@ Some verbs are extremely weird and common. Memorize them.
 
     <div class="annotate" markdown>
 
+    > {{at}} I seg nix.  
+    > {{de}} Ich sehe nichts.  
+    >
     > {{at}} Schau ma moi, daun seng mas scho. (1)  
     > {{de}} Schauen wir mal, dann sehen wir es schon.  
 
@@ -246,6 +252,8 @@ Some verbs are extremely weird and common. Memorize them.
     | du gspiast      | ees gspiats |
     | ea/se/es gspiat | se gspian   |
 
+    <!-- TODO setences for spüren -->
+
 === "{{de}} ziehen"
 
     | {{at}} ziehn  |            |
@@ -254,15 +262,13 @@ Some verbs are extremely weird and common. Memorize them.
     | du ziagst     | ees ziehts |
     | ea/se/es ziag | se ziehn   |
 
-=== "{{de}} fliegen"
+    <!-- TODO setences for ziehen -->
 
-    | {{at}} fliehn |      |
-    | :------------ | :--- |
-    | i             | mia  |
-    | du            | ees  |
-    | ea/se/es      | se   |
+## Regular Verbs
 
-## Inflections
+Finally, we come to regular verbs: verbs with a single stem and basic inflections in the present tense.
+
+### Inflections
 
 The basic inflections are different in dialect. The basic inflections are demonstrated below, using {{de}} _machen_ and _arbeiten_ as examples:
 
@@ -302,9 +308,7 @@ Take note of three rules:
     26 March 2022.  
     u/Stock-Plantain-8397 reflects on their anecdotal experience of sound changes between Bavaria, Salzburg, and "more eastern dialects" including Upper Austria.
 
-## Regular Verbs
-
-Finally, we are left with regular verbs: verbs with a single stem and basic inflections in the present tense.
+### List of Regular Verbs
 
 This list will help with memorization and sanity checks. As inflections are not exempt from sound changes however, the conjugation table highlights the essential sound changes you need to understand the verb in dialect.
 
@@ -362,6 +366,8 @@ This list will help with memorization and sanity checks. As inflections are not 
 | stellen           | stöön             | stö        |
 | zahlen            | zoin              | zoi        |
 | zählen            | zöin              | zöi        |
+
+<!-- TODO exercises with audio examples -->
 
 *[1SG]: 1st Person Singular, e.g. ich bin
 *[2SG]: 2st Person Singular, e.g. du bist
