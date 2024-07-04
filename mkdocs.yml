@@ -75,6 +75,8 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  # enable smartypants https://python-markdown.github.io/extensions/smarty/
+  - smarty
 plugins:
   - privacy
   - search:
