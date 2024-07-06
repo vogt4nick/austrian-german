@@ -24,6 +24,8 @@ extra:
   us: :flag_us:{ title="Standard American English" }
 extra_css:
   - stylesheets/extra.css
+hooks:
+  - hooks.py
 markdown_extensions:
   # enable footnotes https://squidfunk.github.io/mkdocs-material/reference/footnotes/
   - footnotes

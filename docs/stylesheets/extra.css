@@ -13,6 +13,13 @@
     target: "_blank"
 }
 
-/* .md-typeset table:not([class]) {
-    font-size: .64rem;
-} */
+.spoiler {
+    background-color: gray;
+    color: transparent;
+    user-select: none;
+}
+
+.spoiler:hover {
+    background-color: inherit;
+    color: inherit;
+}
