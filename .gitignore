@@ -15,4 +15,5 @@ site/
 .cache
 
 # temporary files
+__pycache__
 temp*
