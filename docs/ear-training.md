@@ -48,10 +48,10 @@ function revealSpoiler(name) {
 function toggleSelector(selector) {
     var list = document.querySelectorAll(selector);
     for (var i=0, element; element = list[i]; i++) {
-        if (element.style.display != "none") {
-            element.style.display = "none";
-        } else {
+        if (element.style.display != "inline") {
             element.style.display="inline";
+        } else {
+            element.style.display = "none";
         }
     }
 }
