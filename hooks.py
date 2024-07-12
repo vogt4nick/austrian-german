@@ -58,7 +58,7 @@ def preprocess_subtitles(markdown):
     def replace(match: re.Match):
         blockquote = match.group("blockquote")
         text = match.group("text")
-        print(text)
+        # print(text)
         class_value = match.group("class_value")
         trailing_whitespace = match.group("trailing_whitespace")
 
