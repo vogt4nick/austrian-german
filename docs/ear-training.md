@@ -55,15 +55,29 @@ function toggleSelector(selector) {
         }
     }
 }
+
+function iterButton(button) {
+    if (!button.getAttribute("state")) {
+        toggleSelector('.subtitles span[lang="at"]');
+        button.innerHTML = 'Show <img alt="🇩🇪" class="twemoji" src="../assets/external/cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1e9-1f1ea.svg" title="Standard German"> subtitles';
+        button.setAttribute("state", "1");
+    } else if (button.getAttribute("state") === "1") {
+        toggleSelector('.subtitles span[lang="de"]');
+        button.textContent = 'Show spoilers';
+        button.setAttribute("state", "2");
+    } else if (button.getAttribute("state") === "2") {
+        revealSpoiler('spoiler');
+        button.textContent = 'Done';
+        button.setAttribute("state", "3");
+    }
+}
 </script>
 
 ## Exercise: Mundl
 
 {{ embed_youtube_video("rgib5xy8MJ4", "54", "63") }}
 
-<button href="javascript://" onclick="toggleSelector('.subtitles_at')" class="md-button">Show {{at}} subtitles</button>
-<button href="javascript://" onclick="revealSpoiler('spoiler')" class="md-button">Show spoilers</button>
-<button href="javascript://" onclick="toggleSelector('.subtitles_de')" class="md-button">Show {{de}} subtitles</button>
+<button class="md-button" onclick="iterButton(this)">Show {{at}} subtitles</button>
 
 <!-- why markdown="1"? https://stackoverflow.com/questions/47165449/use-static-html-in-mkdocs -->
 <div class="subtitles" markdown="1">
@@ -81,9 +95,7 @@ function toggleSelector(selector) {
 
 {{ embed_youtube_video("B2X0NUJhT-4", "35", "62") }}
 
-<button href="javascript://" onclick="toggleSelector('.subtitles_at')" class="md-button">Show {{at}} subtitles</button>
-<button href="javascript://" onclick="revealSpoiler('spoiler')" class="md-button">Show spoilers</button>
-<button href="javascript://" onclick="toggleSelector('.subtitles_de')" class="md-button">Show {{de}} subtitles</button>
+<button class="md-button" onclick="iterButton(this)">Show {{at}} subtitles</button>
 
 <div class="subtitles annotate" markdown="1">
 
