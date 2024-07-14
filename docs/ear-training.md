@@ -36,37 +36,26 @@ span[lang="de"] {
 </style>
 
 <script>
-function revealSpoiler(name) {
-    var list = document.getElementsByClassName(name);
-    for (var i=0, element; element = list[i]; i++) {
-        element.style.backgroundColor="inherit";
-        element.style.color="inherit";
-        element.style.display="inline";
-    }
-}
-
-function toggleSelector(selector) {
+function revealSelector(selector) {
     var list = document.querySelectorAll(selector);
     for (var i=0, element; element = list[i]; i++) {
-        if (element.style.display != "inline") {
-            element.style.display="inline";
-        } else {
-            element.style.display = "none";
-        }
+        element.style.display="inline";
+        element.style.backgroundColor="inherit";
+        element.style.color="inherit";
     }
 }
 
 function iterButton(button) {
     if (!button.getAttribute("state")) {
-        toggleSelector('span[lang="at"]');
-        button.innerHTML = 'Show <img alt="🇩🇪" class="twemoji" src="../assets/external/cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1e9-1f1ea.svg" title="Standard German"> subtitles';
+        revealSelector('span[lang="at"]');
+        button.innerHTML = 'Show <img alt="🇩🇪" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1e9-1f1ea.svg" title="Standard German"> subtitles';
         button.setAttribute("state", "1");
     } else if (button.getAttribute("state") === "1") {
-        toggleSelector('span[lang="de"]');
+        revealSelector('span[lang="de"]');
         button.textContent = 'Show spoilers';
         button.setAttribute("state", "2");
     } else if (button.getAttribute("state") === "2") {
-        revealSpoiler('spoiler');
+        revealSelector('.spoiler');
         button.textContent = 'Done';
         button.setAttribute("state", "3");
     }
