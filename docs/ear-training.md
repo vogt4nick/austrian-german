@@ -36,8 +36,9 @@ span[lang="de"] {
 </style>
 
 <script>
-function revealSelector(selector) {
-    var list = document.querySelectorAll(selector);
+function revealSelector(window, selector) {
+    var window_element = document.querySelector(window);
+    var list = window_element.querySelectorAll(selector);
     for (var i=0, element; element = list[i]; i++) {
         element.style.display="inline";
         element.style.backgroundColor="inherit";
@@ -45,17 +46,17 @@ function revealSelector(selector) {
     }
 }
 
-function iterButton(button) {
+function iterButton(window, button) {
     if (!button.getAttribute("state")) {
-        revealSelector('span[lang="at"]');
+        revealSelector(window, 'span[lang="at"]');
         button.innerHTML = 'Show <img alt="🇩🇪" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1e9-1f1ea.svg" title="Standard German"> subtitles';
         button.setAttribute("state", "1");
     } else if (button.getAttribute("state") === "1") {
-        revealSelector('span[lang="de"]');
+        revealSelector(window, 'span[lang="de"]');
         button.textContent = 'Show spoilers';
         button.setAttribute("state", "2");
     } else if (button.getAttribute("state") === "2") {
-        revealSelector('.spoiler');
+        revealSelector(window, '.spoiler');
         button.textContent = 'Done';
         button.setAttribute("state", "3");
     }
@@ -66,7 +67,9 @@ function iterButton(button) {
 
 {{ embed_youtube_video("rgib5xy8MJ4", "54", "63") }}
 
-<button class="md-button" onclick="iterButton(this)">Show {{at}} subtitles</button>
+<button class="md-button" onclick="iterButton('#mundl-subs', this)">Show {{at}} subtitles</button>
+
+<div id="mundl-subs" markdown="1">
 
 > |at|> :factory_worker: Prost, Oida.  
 > |de|> Prost, Alter.  
@@ -75,14 +78,16 @@ function iterButton(button) {
 > |at|> :factory_worker: Servas.  
 > |de|> Servus.  
 
+</div>
+
 ## Exercise: Schoafe Schoaf
 
 {{ embed_youtube_video("B2X0NUJhT-4", "35", "62") }}
 
-<button class="md-button" onclick="iterButton(this)">Show {{at}} subtitles</button>
+<button class="md-button" onclick="iterButton('#mustache-subs', this)">Show {{at}} subtitles</button>
 
 <!-- why markdown="1"? https://stackoverflow.com/questions/47165449/use-static-html-in-mkdocs -->
-<div class="annotate" markdown="1">
+<div class="annotate" id="mustache-subs" markdown="1">
 
 > |at|> :man_tone1: Schoafe Schoaf. Danke.  
 > |de|> Scharfe Scharf. Danke.  
