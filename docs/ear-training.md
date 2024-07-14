@@ -21,11 +21,11 @@ Take this practice in four stages, repeating as necessary:
     color: inherit;
 }
 
-.subtitles_at {
+.subtitles span[lang="at"] {
     display: none;
 }
 
-.subtitles_de {
+.subtitles span[lang="de"] {
     display: none;
     font-size: .83em;
     /* line-height: 0.5em; */
@@ -66,15 +66,14 @@ function toggleSelector(selector) {
 <button href="javascript://" onclick="toggleSelector('.subtitles_de')" class="md-button">Show {{de}} subtitles</button>
 
 <!-- why markdown="1"? https://stackoverflow.com/questions/47165449/use-static-html-in-mkdocs -->
-<div class="annotate" markdown="1">
+<div class="subtitles" markdown="1">
 
-<!-- placeholder for proper rendering -->
-> :factory_worker: Prost, Oida.     <!-- class:subtitles_at -->  
-> Prost, Alter.                     <!-- class:subtitles_de -->  
-> :man_bald_tone1: Du sogst olle "Oida" zu mia, !!heast!!. Haaß Mundl.  <!-- class:subtitles_at -->  
-> Du sagst alle "Alter" zu mir, hörst du. Ich heiße Mundl.              <!-- class:subtitles_de -->  
-> :factory_worker: Servas.          <!-- class:subtitles_at -->  
-> Servus.                           <!-- class:subtitles_de -->  
+> |at|> :factory_worker: Prost, Oida.  
+> |de|> Prost, Alter.  
+> |at|> :man_bald_tone1: Du sogst olle "Oida" zu mia, !!heast!!. Haaß Mundl.  
+> |de|> Du sagst alle "Alter" zu mir, hörst du. Ich heiße Mundl.  
+> |at|> :factory_worker: Servas.  
+> |de|> Servus.  
 
 </div>
 
@@ -86,27 +85,26 @@ function toggleSelector(selector) {
 <button href="javascript://" onclick="revealSpoiler('spoiler')" class="md-button">Show spoilers</button>
 <button href="javascript://" onclick="toggleSelector('.subtitles_de')" class="md-button">Show {{de}} subtitles</button>
 
-<div class="annotate" markdown="1">
+<div class="subtitles annotate" markdown="1">
 
-<!-- placeholder for proper rendering -->
-> :man_tone1: Schoafe Schoaf. Danke.                    <!-- class:subtitles_at -->  
-> Scharfe Scharf. Danke.                                <!-- class:subtitles_de -->  
-> :woman: !!Sog!!, wos is a schoafe Schoaf?             <!-- class:subtitles_at -->  
-> Sag, was ist eine "scharfe Scharf?"                   <!-- class:subtitles_de -->  
-> :man_tone1: Sie !!san!! von Wien? :woman: _Ja._       <!-- class:subtitles_at -->  
-> Sie sind von Wien? _Ja._                              <!-- class:subtitles_de -->  
-> :man_tone1: Warum !!kennat's!! des ned? (1)           <!-- class:subtitles_at -->  
-> Warum kennte sie das nicht?                           <!-- class:subtitles_de -->  
-> :man_tone1: Schoafe Schoaf is a schoafe Burnwurst mid schoafm Senf. Schoaf, Schoaf.   <!-- class:subtitles_at -->  
-> "Scharfe Scharf" ist eine scharfe Burenwurst mit scharfem Senf. Scharf, Scharf.       <!-- class:subtitles_de -->  
-> :man_tone1: Also, !!brauch!! ma ned mehrere Sochn.    <!-- class:subtitles_at -->  
-> Also, braucht man nicht mehrere Sachen.               <!-- class:subtitles_de -->  
-> :man_tone1: !!Song!! so, muss aanfoch "schoaf Schoaf."<!-- class:subtitles_at -->  
-> Sagen so, (es) muss einfach "scharf Scharf."          <!-- class:subtitles_de -->  
-> :man_tone1: "Schoafe Schoaf" is schoafe Schoaf.       <!-- class:subtitles_at -->  
-> "Scharfe Scharf" ist "scharfe Scharf."                <!-- class:subtitles_de -->  
-> :man_tone1: Es is, is irgendwo verständlich, oder hob mi -- hob i mi richtig !!aufgregt!!. <!-- class:subtitles_at -->  
-> Es ist, ist irgendwo verständlich, oder habe mich -- habe ich mich richtig aufgeregt.  <!-- class:subtitles_de -->  
+> |at|> :man_tone1: Schoafe Schoaf. Danke.  
+> |de|> Scharfe Scharf. Danke.  
+> |at|> :woman: !!Sog!!, wos is a schoafe Schoaf?  
+> |de|> Sag, was ist eine "scharfe Scharf?"  
+> |at|> :man_tone1: Sie !!san!! von Wien? :woman: _Ja._  
+> |de|> Sie sind von Wien? _Ja._  
+> |at|> :man_tone1: Warum !!kennat's!! des ned? (1)  
+> |de|> Warum kennte sie das nicht?  
+> |at|> :man_tone1: Schoafe Schoaf is a schoafe Burnwurst mid schoafm Senf. Schoaf, Schoaf.  
+> |de|> "Scharfe Scharf" ist eine scharfe Burenwurst mit scharfem Senf. Scharf, Scharf.  
+> |at|> :man_tone1: Also, !!brauch!! ma ned mehrere Sochn.  
+> |de|> Also, braucht man nicht mehrere Sachen.  
+> |at|> :man_tone1: !!Song!! so, muss aanfoch "schoaf Schoaf."  
+> |de|> Sagen so, (es) muss einfach "scharf Scharf."  
+> |at|> :man_tone1: "Schoafe Schoaf" is schoafe Schoaf.  
+> |de|> "Scharfe Scharf" ist "scharfe Scharf."  
+> |at|> :man_tone1: Es is, is irgendwo verständlich, oder hob mi -- hob i mi richtig !!aufgregt!!.  
+> |de|> Es ist, ist irgendwo verständlich, oder habe mich -- habe ich mich richtig aufgeregt.  
 
 </div>
 
