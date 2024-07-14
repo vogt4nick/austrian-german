@@ -21,11 +21,11 @@ Take this practice in four stages, repeating as necessary:
     color: inherit;
 }
 
-.subtitles span[lang="at"] {
+span[lang="at"] {
     display: none;
 }
 
-.subtitles span[lang="de"] {
+span[lang="de"] {
     display: none;
     font-size: .83em;
     /* line-height: 0.5em; */
@@ -58,11 +58,11 @@ function toggleSelector(selector) {
 
 function iterButton(button) {
     if (!button.getAttribute("state")) {
-        toggleSelector('.subtitles span[lang="at"]');
+        toggleSelector('span[lang="at"]');
         button.innerHTML = 'Show <img alt="🇩🇪" class="twemoji" src="../assets/external/cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1e9-1f1ea.svg" title="Standard German"> subtitles';
         button.setAttribute("state", "1");
     } else if (button.getAttribute("state") === "1") {
-        toggleSelector('.subtitles span[lang="de"]');
+        toggleSelector('span[lang="de"]');
         button.textContent = 'Show spoilers';
         button.setAttribute("state", "2");
     } else if (button.getAttribute("state") === "2") {
@@ -79,9 +79,6 @@ function iterButton(button) {
 
 <button class="md-button" onclick="iterButton(this)">Show {{at}} subtitles</button>
 
-<!-- why markdown="1"? https://stackoverflow.com/questions/47165449/use-static-html-in-mkdocs -->
-<div class="subtitles" markdown="1">
-
 > |at|> :factory_worker: Prost, Oida.  
 > |de|> Prost, Alter.  
 > |at|> :man_bald_tone1: Du sogst olle "Oida" zu mia, !!heast!!. Haaß Mundl.  
@@ -89,15 +86,14 @@ function iterButton(button) {
 > |at|> :factory_worker: Servas.  
 > |de|> Servus.  
 
-</div>
-
 ## Exercise: Schoafe Schoaf
 
 {{ embed_youtube_video("B2X0NUJhT-4", "35", "62") }}
 
 <button class="md-button" onclick="iterButton(this)">Show {{at}} subtitles</button>
 
-<div class="subtitles annotate" markdown="1">
+<!-- why markdown="1"? https://stackoverflow.com/questions/47165449/use-static-html-in-mkdocs -->
+<div class="annotate" markdown="1">
 
 > |at|> :man_tone1: Schoafe Schoaf. Danke.  
 > |de|> Scharfe Scharf. Danke.  
