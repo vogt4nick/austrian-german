@@ -62,7 +62,9 @@ function markup() {
   for (const paragraph of document.querySelectorAll(".md-typeset p")) {
     if (paragraph.textContent.includes("|>")) markupSubtitles(paragraph);
   }
-  markupSpoilers(document.querySelector(".md-typeset") ?? document.body);
+  for (const root of document.querySelectorAll(".md-typeset")) {
+    markupSpoilers(root);
+  }
 }
 
 // re-run after instant navigation when the theme exposes document$
