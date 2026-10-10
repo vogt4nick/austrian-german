@@ -17,6 +17,7 @@ Topics I want to cover. In no particular order:
     - e.g. "dem Nick seine Rezepte", Vonativ
 - [ ] Pronouns
     - e.g. mia > wir, ees > ihr, mei' leiberl
+    - e.g. [mia treffen sich > wir treffen uns](https://www.youtube.com/watch?v=iKgG5Y9MlEc&t=90s)
 - [ ] Verbal prefixes
     - e.g. {{at}} dakönnst du
 - [ ] Forming plurals with a trailing -n
