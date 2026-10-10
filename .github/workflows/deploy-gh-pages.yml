@@ -23,16 +23,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-      - name: Install poetry
-        run: pipx install poetry
-      - uses: actions/setup-python@main
+      - uses: astral-sh/setup-uv@v7
         with:
           python-version: 3.9
-          cache: "poetry"
       - name: Install dependencies
-        run: poetry install --only main --no-root
+        run: uv sync --no-dev
       - name: Build en site
-        run: poetry run mkdocs build -f mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
+        run: uv run mkdocs build -f mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
 
         # enable upload https://github.com/actions/upload-pages-artifact/tree/v3?tab=readme-ov-file#example-permissions-fix-for-linux
       - name: Fix permissions

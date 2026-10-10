@@ -1,21 +1,22 @@
-[tool.poetry]
-package-mode = false
+[project]
 name = "austrian-german"
-authors = ["Nick Vogt <vogt4nick@gmail.com>"]
+version = "0.0.1"
+authors = [{ name = "Nick Vogt", email = "vogt4nick@gmail.com" }]
 license = "CC-BY-SA-4.0"
 readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.25",
+    "mkdocs-macros-plugin>=1.0.5",
+    "mkdocs-awesome-pages-plugin>=2.9.2",
+]
 
-[tool.poetry.dependencies]
-python = "^3.9"
-mkdocs = "^1.6.0"
-mkdocs-material = "^9.5.25"
-mkdocs-macros-plugin = "^1.0.5"
-mkdocs-awesome-pages-plugin = "^2.9.2"
+[dependency-groups]
+dev = [
+    "pre-commit>=3.7.1",
+]
 
-
-[tool.poetry.group.dev.dependencies]
-pre-commit = "^3.7.1"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[tool.uv]
+package = false
+exclude-newer = "14 days"
