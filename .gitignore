@@ -2,7 +2,7 @@
 .python-version
 .venv
 
-# mkdocs documentation
+# zensical documentation
 site/
 
 # MacOS artifacts

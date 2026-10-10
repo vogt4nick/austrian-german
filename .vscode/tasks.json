@@ -6,7 +6,7 @@
       "type": "shell",
       // --dev-addr localhost:xxxx is necessary for embedded youtube videos
       // to work locally https://stackoverflow.com/questions/51969269/
-      "command": "uv run mkdocs serve -f mkdocs.yml --dev-addr localhost:8000",
+      "command": "uv run zensical serve --dev-addr localhost:8000",
       "group": {
         "kind": "build",
         "isDefault": true
@@ -15,7 +15,7 @@
     {
       "label": "build",
       "type": "shell",
-      "command": "uv run mkdocs build -f mkdocs.yml",
+      "command": "uv run zensical build",
       "group": {
         "kind": "build",
         "isDefault": false

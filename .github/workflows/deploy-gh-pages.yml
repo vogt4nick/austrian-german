@@ -3,7 +3,7 @@ name: deploy-gh-pages
 on: [push]
 
 env:
-  MKDOCS_SITE_DIR: /home/runner/work/austrian-german/austrian-german/_site
+  ZENSICAL_SITE_DIR: /home/runner/work/austrian-german/austrian-german/site
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -25,21 +25,21 @@ jobs:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v7
         with:
-          python-version: 3.9
+          python-version: 3.12
       - name: Install dependencies
         run: uv sync --no-dev
-      - name: Build en site
-        run: uv run mkdocs build -f mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
+      - name: Build site
+        run: uv run zensical build --strict
 
         # fix file permissions before packaging; GitHub Pages requires all files to be readable
       - name: Fix permissions
         run: |
-          chmod -c -R +rX "${{ env.MKDOCS_SITE_DIR }}/" | while read line; do
+          chmod -c -R +rX "${{ env.ZENSICAL_SITE_DIR }}/" | while read line; do
             echo "::warning title=Invalid file permissions automatically fixed::$line"
           done
 
       - name: Package artifact
-        run: tar --dereference --hard-dereference --exclude=.git --exclude=.github --exclude='.[^/]*' -cf "$RUNNER_TEMP/artifact.tar" -C "${{ env.MKDOCS_SITE_DIR }}" .
+        run: tar --dereference --hard-dereference --exclude=.git --exclude=.github --exclude='.[^/]*' -cf "$RUNNER_TEMP/artifact.tar" -C "${{ env.ZENSICAL_SITE_DIR }}" .
 
       - name: Upload artifact
         uses: actions/upload-artifact@v6

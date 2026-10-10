@@ -4,12 +4,10 @@ version = "0.0.1"
 authors = [{ name = "Nick Vogt", email = "vogt4nick@gmail.com" }]
 license = "CC-BY-SA-4.0"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
 dependencies = [
-    "mkdocs>=1.6.0",
-    "mkdocs-material>=9.5.25",
+    "zensical>=0.0.65",
     "mkdocs-macros-plugin>=1.0.5",
-    "mkdocs-awesome-pages-plugin>=2.9.2",
 ]
 
 [tool.uv]
