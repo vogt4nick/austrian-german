@@ -22,7 +22,7 @@ jobs:
     name: Build site
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v7
         with:
           python-version: 3.9
@@ -31,26 +31,32 @@ jobs:
       - name: Build en site
         run: uv run mkdocs build -f mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
 
-        # enable upload https://github.com/actions/upload-pages-artifact/tree/v3?tab=readme-ov-file#example-permissions-fix-for-linux
+        # fix file permissions before packaging; GitHub Pages requires all files to be readable
       - name: Fix permissions
         run: |
           chmod -c -R +rX "${{ env.MKDOCS_SITE_DIR }}/" | while read line; do
             echo "::warning title=Invalid file permissions automatically fixed::$line"
           done
 
+      - name: Package artifact
+        run: tar --dereference --hard-dereference --exclude=.git --exclude=.github --exclude='.[^/]*' -cf "$RUNNER_TEMP/artifact.tar" -C "${{ env.MKDOCS_SITE_DIR }}" .
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v6
         with:
-          path: ${{ env.MKDOCS_SITE_DIR }}
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
   pre-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
-      - uses: actions/setup-python@main
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: 3.9
-      - uses: pre-commit/action@main
+      - uses: pre-commit/action@v3.0.1
 
   deploy:
     if: github.ref == 'refs/heads/main'
@@ -63,4 +69,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
