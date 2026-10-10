@@ -184,7 +184,7 @@ Some verbs are so strange we simply have to memorize them.
     <div class="annotate" markdown>
 
     > {{at}} I wüü no ned haam geh. (1)  
-    > {{de}} Ich will noch nicht Hause gehen.  
+    > {{de}} Ich will noch nicht nach Hause gehen.  
     >
     > {{at}} Mia genga zum Billa.  
     > {{de}} Wir gehen zum Billa.  
@@ -205,7 +205,7 @@ Some verbs are so strange we simply have to memorize them.
     > {{de}} Ich stehe auf depperter.  
     >
     > {{at}} De Radln stenga im Weg.  
-    > {{de}} De Fahrräder stehen im Weg.  
+    > {{de}} Die Fahrräder stehen im Weg.  
 
     <!-- TODO move i steh auf ... to exercises -->
     <!-- TODO sentence for stehen -->
@@ -283,9 +283,9 @@ The basic inflections are different in dialect. The basic inflections are demons
 
 Take note of three rules:
 
-- The 1SG drops the -e inflection (_i moch_). This is is common among all German speakers.
-- The 1PL and 3PL have either an -a inflection (_i mocha_) or a shortened -n inflection (_mia oabeitn_).
-- The 2PL has a -ts inflection (_i mochts_).
+- The 1SG drops the -e inflection (_i moch_). This is common among all German speakers.
+- The 1PL and 3PL have either an -a inflection (_mia mocha_) or a shortened -n inflection (_mia oabeitn_).
+- The 2PL has a -ts inflection (_ees mochts_).
 
 ??? question "What verbs are inflected with -a or -n in the 1PL and 3PL?"
     Inflections correlate with the speaker and setting. Rural populations tend to use -a inflections[^doppelt-hält-besser], and Bavaria seems prone to -a inflections, in contrast to Linz.[^wiki-bairische-sprache][^stock-plantain-8397] More importantly however, the -a/-n difference will not shutdown your listening and comprehension. The inflection agrees with the grammatical subject, and the subject is often clear in context. Now that you know the -en can be -a or -n, it's easy to recognize.
@@ -295,7 +295,7 @@ Take note of three rules:
     ["Dialekt in Oberösterreich: Wir analysieren @Garteln 🇦🇹🤓 \*Austrian Dialects\*"](https://www.youtube.com/watch?v=qamE46Fi4Fc&t=3m58s)
     [_YouTube: Doppelt hält besser - Learn German._](https://www.youtube.com/@dhb.deutschinoesterreich)
     25 February 2023.  
-    Natalie and Verena analyze the verb inflections of Severin, a gardener in the Mühlviertel.
+    Nathalie and Verena analyze the verb inflections of Severin, a gardener in the Mühlviertel.
 [^wiki-bairische-sprache]:
     [Ottopiloto](https://de.wikipedia.org/wiki/Benutzer:Ottopiloto) and [other contributors](https://xtools.wmcloud.org/authorship/de.wikipedia.org/Bairisch?uselang=de).
     ["Bairische Sprache"](https://de.wikipedia.org/wiki/Bairische_Sprache#Verbalsystem)
@@ -325,7 +325,7 @@ This list will help with memorization and sanity checks. As inflections are not 
         Since the subject is 1SG, "sog" takes no inflection and _sog_ is the verb stem.  
         If the subject were 1PL or 3PL, you would identify the infinitive.
 
-    2. Lookup the verb stem in the table, {{at}} _sog_, and find it's standard German infinitive, {{de}} _sagen_.  
+    2. Lookup the verb stem in the table, {{at}} _sog_, and find its standard German infinitive, {{de}} _sagen_.  
         Since spelling is not standardized, you may need to lookup different spellings or look up the standard German verb you think it could be.
 
         | {{de}} Infinitive | {{at}} Infinitive | {{at}} 1SG |
@@ -359,7 +359,6 @@ This list will help with memorization and sanity checks. As inflections are not 
 | legen             | leng              | leg        |
 | lassen            | lossn             | loss       |
 | machen            | mochn             | moch       |
-| mögen             | meng              | mog        |
 | sagen             | song              | sog        |
 | sollen            | soin              | soi        |
 | spielen           | spüün             | spü        |
@@ -371,8 +370,8 @@ This list will help with memorization and sanity checks. As inflections are not 
 <!-- use https://embed.tube/embed-code-generator/youtube/ -->
 
 *[1SG]: 1st Person Singular, e.g. ich bin
-*[2SG]: 2st Person Singular, e.g. du bist
+*[2SG]: 2nd Person Singular, e.g. du bist
 *[3SG]: 3rd Person Singular, e.g. es ist
 *[1PL]: 1st Person Plural, e.g. wir sind
 *[2PL]: 2nd Person Plural, e.g. ihr seid
-*[3PL]: 3nd Person Plural, e.g. sie sind
+*[3PL]: 3rd Person Plural, e.g. sie sind
