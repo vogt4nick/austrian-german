@@ -63,7 +63,7 @@ function iterButton(window, button) {
 }
 </script>
 
-## Exercise: Mundl
+## Mundl
 
 {{ embed_youtube_video("rgib5xy8MJ4", "54", "63") }}
 
@@ -80,7 +80,7 @@ function iterButton(window, button) {
 
 </div>
 
-## Exercise: Schoafe Schoaf
+## Schoafe Schoaf
 
 {{ embed_youtube_video("B2X0NUJhT-4", "35", "62") }}
 
@@ -111,3 +111,22 @@ function iterButton(window, button) {
 </div>
 
 1. The man is either speaking aside to himself for a moment (_kennat's_ as in _kennat se_) or momentarily addressing the journalist and her cameraman (_kennats_ as in _(ees) kennats_). _Kennat_ is the [Konjunktiv II](subjunctive-mood.md#-at-inflections) conjugation of _kennen_. It's also possible the 90s microphone did not capture a subtle "n" that would continue the formal Siezen established in his initial question (i.e. _kennatn's_ as in _kennatn Sie_).
+
+## Brigitta vom Gemüsestand
+
+<!-- https://www.youtube.com/watch?v=xFaKeo_isPo -->
+{{ embed_youtube_video("xFaKeo_isPo", "0", "5") }}
+
+<button class="md-button" onclick="iterButton('#brigitta-subs', this)">Show {{at}} subtitles</button>
+
+<div class="annotate" id="brigitta-subs" markdown="1">
+
+> |at|> :older_woman_tone1: Frische Karotten. Olles Frisch heite. Kommts (1) her, meine Hausfraun.  
+> |de|> Frische Karotten. Alles Frisch heute. Kommt ihr her, meine Hausfrauen.  
+
+</div>
+
+1. "Kommts" is the [conjugation of Kommen in the 2PL](present-tense.md)
+
+> |at|> :older_woman_tone1: Frische Karotten. Olles Frisch heite. Kommts her, meine Hausfraun.
+> |de|> Frische Karotten. Alles Frisch heute. Kommt ihr her, meine Hausfrauen.
