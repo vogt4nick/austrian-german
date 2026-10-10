@@ -12,11 +12,6 @@ dependencies = [
     "mkdocs-awesome-pages-plugin>=2.9.2",
 ]
 
-[dependency-groups]
-dev = [
-    "pre-commit>=3.7.1",
-]
-
 [tool.uv]
 package = false
 exclude-newer = "14 days"
