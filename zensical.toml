@@ -70,4 +70,6 @@ pymdownx.tilde = {}
 
 [project.plugins.search]
 
+[project.plugins.mkdocs-video]
+
 [project.plugins.macros]

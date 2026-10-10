@@ -65,7 +65,7 @@ function iterButton(window, button) {
 
 ## Mundl
 
-{{ embed_youtube_video("rgib5xy8MJ4", "54", "63") }}
+![type:video](https://www.youtube.com/embed/rgib5xy8MJ4?fs=0&playsinline=1&rel=0&start=54&end=63){ referrerpolicy="strict-origin-when-cross-origin" }
 
 <button class="md-button" onclick="iterButton('#mundl-subs', this)">Show {{at}} subtitles</button>
 
@@ -82,7 +82,7 @@ function iterButton(window, button) {
 
 ## Schoafe Schoaf
 
-{{ embed_youtube_video("B2X0NUJhT-4", "35", "62") }}
+![type:video](https://www.youtube.com/embed/B2X0NUJhT-4?fs=0&playsinline=1&rel=0&start=35&end=62){ referrerpolicy="strict-origin-when-cross-origin" }
 
 <button class="md-button" onclick="iterButton('#mustache-subs', this)">Show {{at}} subtitles</button>
 
@@ -115,7 +115,7 @@ function iterButton(window, button) {
 ## Brigitta vom Gemüsestand
 
 <!-- https://www.youtube.com/watch?v=xFaKeo_isPo -->
-{{ embed_youtube_video("xFaKeo_isPo", "0", "5") }}
+![type:video](https://www.youtube.com/embed/xFaKeo_isPo?fs=0&playsinline=1&rel=0&start=0&end=5){ referrerpolicy="strict-origin-when-cross-origin" }
 
 <button class="md-button" onclick="iterButton('#brigitta-subs', this)">Show {{at}} subtitles</button>
 
